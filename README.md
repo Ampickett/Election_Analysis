@@ -14,7 +14,7 @@ The purpose of this analysis is to show the outcomes of the election by largest 
 
 The county with the most votes is Denver with 82.8% of the total votes and 306,055 votes cast.
 
-* Within the counties were votes for specific candidates. Below is a breakdown of the candidates, their votes, and their percentages:
+* In addition to the County votes were votes for specific candidates. Below is a breakdown of the candidates, their votes, and their percentages:
 
 * Charles Casper Stockham: 23.0% (85,213 votes)
 * Diana DeGette: 73.8% (272,892 votes)
