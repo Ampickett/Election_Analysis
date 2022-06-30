@@ -26,4 +26,4 @@ As you can see, candidate Diana DeGette wins via a landslide with 73.8% of the v
 
 ## Election Audit Summary
 
-Given that our code works for 3 counties in Colorado, with some slight modifications, we could apply this code to other counties, or even states, to show election outcomes. 
+Given that our code works for 3 counties in Colorado, with some slight modifications, we could apply this code to other counties, or even states, to show election outcomes. To go this a step further, we could adjust the code to display the number of votes for each candidate by county to show the outcomes by county if needed. This could be used by politicians to find their strongest counties and make sure they consistently win those. 
