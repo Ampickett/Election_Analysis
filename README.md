@@ -6,7 +6,7 @@ The purpose of this analysis is to show the outcomes of the election by largest 
 
 ## Election Audit Results
 
-* Overall, there were 369,711 votes cast in the election. To break that down further:
+Overall, there were 369,711 votes cast in the election. To break that down further:
 
 * Jefferson: 10.5% (38,855 votes),
 * Denver: 82.8% (306,055 votes), 
@@ -26,4 +26,4 @@ As you can see, candidate Diana DeGette wins via a landslide with 73.8% of the v
 
 ## Election Audit Summary
 
-Given that our script runs for 3 counties in Colorado, with some slight modifications, we could apply this to other counties. We could even expand to states, to show different election outcomes. To take this a step further, we could adjust the code to display the number of votes for each candidate by county. Also, we could show the outcomes by county, if needed. This could be used by politicians to find their strongest counties and use that data to focus their efforts on either retaining or gaining ground in counties that are lacking. 
+Given that our script runs for 3 counties in Colorado, with some slight modifications, we could apply this to other counties. We could even expand to other states, to show different election outcomes( we would need the data). To take this a step further, we could adjust the code to display the number of votes for each candidate by county. Also, we could show the outcomes by county, if needed. This could be used by politicians to find their strongest counties and use that data to focus their efforts on either retaining or gaining ground in counties that are lacking. 
